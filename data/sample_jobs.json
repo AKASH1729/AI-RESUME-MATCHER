@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Backend Engineer (Python/Django)",
+    "company": "Acme Corp",
+    "location": "Remote",
+    "description": "We are hiring a backend engineer with strong Python skills to build REST APIs using Django and PostgreSQL. Experience with Docker and CI/CD is a plus.",
+    "url": "https://example.com/jobs/1",
+    "tags": ["python", "django", "postgresql", "backend"]
+  },
+  {
+    "id": "sample-2",
+    "title": "Machine Learning Engineer",
+    "company": "DataWorks",
+    "location": "New York, NY",
+    "description": "Join our ML team to build and deploy NLP models using PyTorch and Hugging Face Transformers. Experience with vector databases and RAG pipelines preferred.",
+    "url": "https://example.com/jobs/2",
+    "tags": ["machine-learning", "nlp", "pytorch", "huggingface"]
+  },
+  {
+    "id": "sample-3",
+    "title": "Frontend Developer (React)",
+    "company": "PixelCraft",
+    "location": "Remote",
+    "description": "Looking for a frontend developer skilled in React, TypeScript, and modern CSS frameworks to build customer-facing dashboards.",
+    "url": "https://example.com/jobs/3",
+    "tags": ["react", "typescript", "frontend"]
+  },
+  {
+    "id": "sample-4",
+    "title": "Data Scientist",
+    "company": "InsightIQ",
+    "location": "San Francisco, CA",
+    "description": "Data scientist role focused on predictive modeling, A/B testing, and building dashboards with Python, pandas, and SQL.",
+    "url": "https://example.com/jobs/4",
+    "tags": ["data-science", "python", "sql", "pandas"]
+  },
+  {
+    "id": "sample-5",
+    "title": "DevOps Engineer",
+    "company": "CloudNine",
+    "location": "Remote",
+    "description": "DevOps engineer to manage Kubernetes clusters, CI/CD pipelines, and AWS infrastructure for a fast-growing SaaS product.",
+    "url": "https://example.com/jobs/5",
+    "tags": ["devops", "kubernetes", "aws", "cicd"]
+  }
+]
